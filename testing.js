@@ -669,7 +669,7 @@ const greeting = `Hello, my name is ${person.name}!
 I am ${person.age} years old.`;
 console.log(greeting);
 
-
+//asfafsdf
 const warnings = {
     success: ["max-length", "no-amd", "prefer-arrow-funcionts"],
     failure: ["no-var", "var-on-top", "linebreak"],
